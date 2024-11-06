@@ -1,0 +1,11 @@
+body {
+    margin-top: 70px;
+    min-height: 100vh;
+    font-family: 'Times NewRoman', serif;
+    background: url("./images/background.jpg") center no-repeat;
+    background-size: cover;
+    margin-left: 100px;
+    
+}
+
+  
